@@ -1,5 +1,5 @@
 from ast import Num, Str
-from Bahhh import * #Mais alguns Imports hehe
+from Imports import * #Mais alguns Imports hehe
 
 # Classe de Cadastro do cidadão
 class Cidadao(db.Model):
